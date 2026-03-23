@@ -5,7 +5,7 @@ Note: This repo may include original components made by myself in addition to co
 
 List of Components:
 * 2D
-* * Scenes
+* Scenes
   * Scene1
-* * Scripts
+* Scripts
   * Script1
